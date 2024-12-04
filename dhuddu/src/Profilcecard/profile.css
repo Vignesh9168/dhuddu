@@ -1,0 +1,33 @@
+.profile-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  .profile-avatar {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+  }
+  
+  .profile-name {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+  .profile-position {
+    color: gray;
+    font-size: 1em;
+    margin-bottom: 10px;
+  }
+  
+  .profile-description {
+    font-size: 1em;
+    color: #666;
+  }
+  

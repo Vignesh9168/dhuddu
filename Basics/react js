@@ -1,0 +1,10 @@
+const x = 12 ;
+const y = 10;
+
+if (x >= 10 ){
+    return console.log(x) 
+} 
+else {
+    return console.log(y)
+}
+
